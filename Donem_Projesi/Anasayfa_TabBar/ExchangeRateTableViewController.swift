@@ -50,7 +50,7 @@ class ExchangeRateTableViewController: UIViewController, UITableViewDelegate, UI
         
         var request = URLRequest(url: apiURL)
         request.httpMethod = "GET"
-        request.addValue("u0AHenJdyImrqma3ge3slGeVhqDWKB1c  ", forHTTPHeaderField: "apikey")
+        request.addValue("API-KEY", forHTTPHeaderField: "apikey")
         
         let task = URLSession.shared.dataTask(with: request) { [weak self] (data, response, error) in
             guard let self = self else { return }

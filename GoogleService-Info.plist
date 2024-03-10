@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>935543586337-4qsn1ndmtk9i0mpcb8d961m8sr3gps5h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.935543586337-4qsn1ndmtk9i0mpcb8d961m8sr3gps5h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDcc2sTKflCJC2dWkLwyJX42oUD5-Xs2JE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>935543586337</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zeynepCansiz.Donem-Projesi</string>
+	<key>PROJECT_ID</key>
+	<string>donemprojesifb-f4723</string>
+	<key>STORAGE_BUCKET</key>
+	<string>donemprojesifb-f4723.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:935543586337:ios:21dc1c2969fd818e976d60</string>
+</dict>
+</plist>
