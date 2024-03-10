@@ -1,0 +1,36 @@
+KİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ AYDINLATMA METNİ
+VERİ SORUMLUSU
+Kişisel verileriniz veri sorumlusu sıfatıyla Bü₺çe Mobil Bilgi Teknolojileri A.Ş. (“BÜTÇE A.Ş.”) tarafından, 6698 sayılı Kişisel Verilerin Korunması Kanunu (“Kanun”) uyarınca aşağıda açıklanan kapsamda işlenebilecektir.
+ 
+Kişisel verilerinizin BÜTÇE A.Ş. tarafından işlenme amaçları konusunda detaylı bilgiler, BÜTÇE(“Mobil Uygulama”) Kişisel Verilerin Korunması ve Gizlilik Politikası’nda, yer almaktadır.
+ 
+İŞLEDİĞİMİZ KİŞİSEL VERİLERİNİZ
+Mobil Uygulama’yı kullandığınız süreç boyunca; BÜTÇE A.Ş tarafından verilen hizmet kapsamında, adınız soyadınız gibi kimlik verileriniz, harcama ve alışveriş alışkanlıklarınız gibi finansal verileriniz, banka transfer hareketleriniz, e-posta, telefon numarası gibi iletişim verileriniz işlenmektedir. BÜTÇE A.Ş. kişisel verilerinizi işbu Aydınlatma Metni’nde belirtilen amaçlar doğrultusunda işleyecektir. Kişisel verilerinizin işlenme amacında herhangi bir değişiklik olması halinde tarafınızdan ayrıca izin alınacaktır. BÜTÇE A.Ş. tarafından toplanan ve kullanılan, kişisel verileriniz aşağıdakilerle sınırlı olmamak kaydıyla özellikle şunlardır:
+ 
+ 
+Kimlik Verisi: Ad- soyad, doğum yeri ve tarihi, cinsiyet kullanılır. Kaydedilir, saklanır, rıza verilen 3. Kişiye aktarılır.
+İletişim Verisi: E-posta adresi, telefon numarası, adres kullanılır. Kaydedilir, saklanır, rıza verilen 3. Kişiye aktarılır.
+Finansal Veri: Para Transfer bilgileri, harcama, konaklama ve alışveriş verileri, e-cüzdan verileri kullanılır. Kaydedilir, saklanır, talebiniz halinde ve rızanız ile 3. Kişiye aktarılabilir.
+Dijital Veri: Mobil Uygulama Ziyaretinize İlişkin Detaylar; internet trafiği, lokasyon verisi, Çağrı merkezinin arama ve ses kayıtları, kullanım ve davranışsal tercihleri, kullanım istatistikleri, Mobil uygulama üzerinden yapılan mesajlaşma ve yazışmalar (içerikleri), e-posta yazışma kayıtları kullanılır. Kaydedilir, rızanız ile yurtdışında yer alan sunucularda saklanır, sınıflandırılır.
+ 
+ 
+KİŞİSEL VERİLERİNİZİN İŞLENME AMACI VE HUKUKİ SEBEBİ
+Başvurunuz ile birlikte ilettiğiniz kişisel verileriniz, BÜTÇE A.Ş. tarafından yürütülen Mobil Uygulama üzerinden size hizmet verebilmek, iletişim bilgilerinize genel ve size özel reklam, promosyon gibi amaçlarla ticari elektronik ileti gönderilmesi, açık rıza verdiğiniz amaçlarla ve yine bu amaçlarla sınırlı olmak üzere analiz edilmesi amaçlarıyla, Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları dahilinde işlenebilecektir.
+ 
+KİŞİSEL VERİLERİNİZİN TOPLANMA YÖNTEMİ VE HUKUKİ SEBEBİ
+ 
+Kişisel verileriniz, BÜTÇE A.Ş. tarafından Mobil Uygulama’da yayımlanan dijital başvuru formundan, tarafınızdan ve buna benzer farklı kanallardan ve yukarıda detaylı olarak ifade edilen ya da farklı hukuki sebeplere dayanarak; sözlü, yazılı veya elektronik ortamda olmak kaydıyla tamamen veya kısmen otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olarak otomatik olmayan yollarla, hissedarları, iş ortağı kurum ve kuruluşlar, resmi kurumlar, yurtiçi / yurtdışı Bankalar ve diğer 3.kişiler de dahil olmak üzere BÜTÇE A.Ş. dışından da elde edilebilecek şekilde çeşitli yöntemlerle Mobil Uygulama’nın uygulanması ve yürütülmesi amacıyla Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları doğrultusunda toplanmaktadır.
+
+KİŞİSEL VERİLERİNİZİN AKTARILDIĞI TARAFLAR VE AKTARIM AMAÇLARI
+Toplanan kişisel verileriniz, yukarıda açıklanan amaçlarla ve açık rıza verdiğiniz amaçlarla, Kanun’un 8. ve 9. maddelerinde belirtilen kişisel veri işleme şartlarına uygun olarak BÜTÇE A.Ş. , hissedarlarına, işortakları ya da tedarikçilerine, kanunen yetkili kamu kurumlarına ve yetkili özel kişilere aktarılabilecektir.
+
+KİŞİSEL VERİ SAHİBİ OLARAK KANUN’UN 11. MADDESİNDE SAYILAN HAKLARINIZ
+ 
+BÜTÇE A.Ş’ye başvurmak suretiyle kişisel verilerinizin; I) işlenip işlenmediğini öğrenme, II) işlenmişse bilgi talep etme, III) işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, IV) yurt içinde / yurt dışında aktarıldığı 3. kişileri bilme, V) eksik / yanlış işlenmişse düzeltilmesini isteme, VI) KVKK’nın 7. maddesinde öngörülen şartlar çerçevesinde silinmesini / yok edilmesini isteme, VII) aktarıldığı 3. kişilere yukarıda sayılan (V) ve (VI) bentleri uyarınca yapılan işlemlerin bildirilmesini isteme, VIII) münhasıran otomatik sistemler ile analiz edilmesi nedeniyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme, IX) kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme hakkına sahipsiniz.
+ 
+Yukarıda sıralanan haklarınıza yönelik başvurularınızı,
+ 
+yazılı olarak kimliğinizi teşvik edici belgeler ile (nüfus cüzdanı, ehliyet, pasaport vb.) şahsen başvuru yapmak sureti ile teslim edebilir, noter kanalıyla kayıtlı adresimize gönderebilir, güvenli elektronik imza ile imzalayıp Esentepe Mah. Talatpaşa cd. No:5 Şişli – İstanbul adresine başvurabilir ya da daha önce tarafınızca bildirilen ve sistemimizde kayıtlı bulunan elektronik posta adresinizi kullanarak destek@butce.co adresinden bize iletilebilirsiniz.
+ 
+Talebinizin niteliğine göre en kısa sürede ve en geç otuz gün içinde başvurularınız ücretsiz olarak sonuçlandırılacaktır; ancak işlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu tarafından belirlenecek tarifeye göre tarafınızdan ücret talep edilebilecektir.
+ 

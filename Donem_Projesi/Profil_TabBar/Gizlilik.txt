@@ -1,0 +1,310 @@
+			BÜTÇE MOBİL BİLGİ TEKNOLOJİLERİ A.Ş.
+		KİŞİSEL VERİLERİN KORUNMASI VE GİZLİLİK POLİTİKASI
+
+
+1.TEMEL GİZLİLİK KURALLARIMIZ
+
+	Bü₺çe; “Türk Ceza Kanunu”, “Kişisel Verilen Koruması Kanunu” ve bir takım yasal düzenlemelerden doğan yükümlülükleri nedeniyle işbu açıklama, Kişisel Verilerin Korunması ve Gizlilik Politikasını kullanıcılarımızın dikkatine sunmaktadır.
+İşbu Kişisel Verilerin Korunması ve Gizlilik Politikası, Açık Rıza ve Aydınlatma Metni, Mobil Uygulama kullanıcıları tarafından onaylanmış sayılacak ve sitede her zaman ulaşılabilir şekilde temin edilecek güncel hali başkaca bir bildirime gerek olmaksızın Mobil Uygulama kullanıcıları için bağlayıcı olacaktır.
+	
+2.AMAÇ
+
+	Bu politikanın amacı Bü₺çe'nin mevcut kullanıcıları, üyeleri, potansiyel üyeleri, iş ortakları, pay sahipleri, şirket yöneticileri, şirket yetkilileri, çalışan ve çalışan adayları, işbirliği içinde bulunulan kurum çalışanları ve yetkilileri ile ilgili üçüncü kişilere ait kişisel verilerin işlenmesini ve korunmasını, imhasını sağlamak için izlenecek yöntem ve ilkeleri düzenlemektir.
+
+3.KAPSAM
+
+	Bu politika, Şirket tarafından yönetilen, tüm kişisel verilerin işlenmesi ve korunmasına
+yönelik yürütülen faaliyetlerde uygulanmaktadır.
+Bu politika; ortaklarımızın, yetkililerimizin, müşterilerimizin çalışanlarının, ortaklarının, yetkililerinin, işbirliği içinde olduğumuz kurumların çalışanlarının, hissedarlarının, yetkililerinin, iş birliği içerisinde olduğumuz kurum ve kuruluşların müşterilerinin ve üçüncü kişilerin işlenen tüm kişisel verilerine ilişkindir.
+
+4.POLİTİKANIN UYGULANMASI
+
+	Bu Politika, Şirket uygulamalarının ilgili mevzuat tarafından ortaya konulan kurallara göre düzenlenmesinden oluşturulmuştur. Mevzuat hükümleri ile Politika hükümleri arasında çelişki bulunması halinde, güncel mevzuat hükümleri uygulanacaktır.
+
+Veri sorumlusu sıfatıyla Şirketimiz;
+
+a) Kişisel verilerin hukuka aykırı olarak işlenmesini önlemek,
+b) Kişisel verilere hukuka aykırı olarak erişilmesini önlemek,
+c) Kişisel verilerin muhafazasını sağlamak,
+amacıyla uygun güvenlik düzeyini temin etmeye yönelik gerekli her türlü teknik, hukuki ve idari tedbirleri almakla yükümlüdür.
+
+5.KİŞİSEL VERİLERİN İŞLENMESİ PRENSİPLERİ
+
+	Şirketimiz süreçlerinde kullanılan veriler yasada öngörüldüğü şekilde kişisel veri ve özel nitelikli kişisel veri olarak sınıflandırılmaktadır, aşağıdaki prensiplere göre işlenmekte, güvenli bir şekilde muhafaza edilmekte ve üçüncü taraflara aktarılmaktadır.
+
+5.1 Hukuka ve Dürüstlük Kurallarına Uygun Olma
+
+	Şirketimiz, kişisel verilerin işlenmesinde hukuksal düzenlemelerle getirilen ilkeler ile genel güven ve dürüstlük kuralına uygun hareket etmektedir. Bu kapsamda Bü₺çe, kişisel verilerin
+işlenmesinde orantılılık gerekliliklerini dikkate almakta, kişisel verileri amacın gerektirdiği dışında kullanmamaktadır.
+
+5.2 Doğru ve Gerektiğinde Güncel Olma
+
+	Şirketimiz kişisel verileri, tam ve doğru bir şekilde muhafaza etmekte ve gerektiğinde güncellenmektedir. Şirket, kişisel verilerin doğru veya güncel olmaması halinde söz konusu verilerin düzeltilmesi, değiştirilmesi, güncellenmesi veya silinmesini tespit etmek amacıyla gerekli düzenlemeleri yapmaktadır.
+
+5.3 Belirlilik ve Şeffaflık
+	Şirket, kişisel verileri belirli, açık ve meşru amaçlarla işler ve ilgili kişiye şeffaf kıldığı veri toplama ve işleme amaçları haricinde, başkaca amaçlarla veri işlememektedir. Amacın meşru olması, Şirket’in işlediği verilerin, yapmış olduğu iş veya sunmuş olduğu hizmetle bağlantılı ve bunlar için gerekli olması anlamına gelmektedir.
+
+5.4 İşlendikleri Amaçla Bağlantılı, Sınırlı ve Ölçülü Olma
+	Şirket tarafından işlenen kişisel veriler, yalnızca belirtilen amaç ile tutarlı olacak şekilde ve bu bağlamda makul bir sınırlama yapılarak işlenmektedir. İleride söz konusu olabilecek olası veri işleme amaçları için kişisel veri toplanmayacağı gibi, kişisel verilerin elde edilme amacına uygun olmayan hiçbir şekilde bu veriler kullanılmamakta, işlenmemekte ve aktarılmamaktadır.
+“En az” veri ilkesi uyarınca kişisel veriler, elde edilme amacıyla sınırlı ve ölçülü tutulmakta olup, bu amaç kapsamında gereksinim olmayan veriler tutulmamaktadır.
+
+5.5 Sınırlı Süre
+	Kişisel verilerin işlenmesini gerektiren esas amacın ortadan kalkması ve artık bu verilere ihtiyaç duyulmaması hâlinde söz konusu kişisel veriler silinmekte, yok edilmekte veya anonim hale getirilmektedir. Kanunlarda verilerin tutulmasına ilişkin sürelerin öngörülmesi hâlinde ise bu veriler, ilgili mevzuatta öngörülen sürelere uygun olacak şekilde muhafaza edilmekte; mevzuatta öngörülen sürenin dolmasından sonra ise bu veriler Şirketimiz tarafından işbu Politika’nın 10. Maddesine uygun olarak, belirli aralıklarla kontrol edilerek, verilerin saklandığı sistemlerden/cihazlardan veya fiziksel olarak bulunduğu ortamlardan silinmekte, yok edilmekte veya anonim hale getirilmektedir.
+
+5.6 İlgilinin Onayı
+	Şirketimiz kişisel verilerin işlenmesi ile ilgili olarak veri sahibini tam ve gereği gibi bilgilendirmekte/aydınlatmaktadır. Gereken durumlarda, veri sahibinin söz konusu işleme ile ilgili olarak onayını almakta, vermiş olduğu onayı dilediğinde geri çekme veya verileri ile ilgili talepte bulunma seçeneği sunmaktadır. Şirketimiz, ilgili veri sahibi kişi onayını geri aldıktan sonra, ilgili kişiye ait kişisel verileri işbu Politika’ da belirtilen diğer prensipler dâhilinde ele almaktadır.
+
+6.ÖZEL NİTELİKLİ KİŞİSEL VERİLERİN KORUNMASI
+	Özel nitelikli kişisel veriler, KVK Kurulu tarafından belirlenecek olan yeterli önlemlerin alınması kaydıyla aşağıdaki durumlarda işlenmektedir:
+
+- Kişisel veri sahibinin açık rızası var ise veya
+- Kişisel veri sahibinin açık rızası yok ise;
+ 
+•Kişisel veri sahibinin sağlığı ve cinsel hayatı dışındaki özel nitelikli kişisel veriler, kanunlarda öngörülen hallerde,
+
+•Kişisel veri sahibinin sağlığına ve cinsel hayatına ilişkin özel nitelikli kişisel verileri ise ancak kamu sağlığının korunması, koruyucu hekimlik, tıbbi teşhis, tedavi ve bakım hizmetlerinin yürütülmesi, sağlık hizmetleri ile finansmanının planlanması ve yönetimi amacıyla, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili kurum ve kuruluşlar tarafından işlenmektedir.
+
+7.KİŞİSEL VERİLERİ İŞLEME AMAÇLARI
+
+	Şirketimiz, KVKK’nın 10. maddesine uygun olarak, kişisel verilerin elde edilmesi sırasında ilgili kişileri aydınlatmaktadır. Bu kapsamda Şirketimiz, kişisel verilerin hangi amaçla işleneceğini, işlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği, kişisel veri toplamanın yöntemi ve hukuki sebebi ile ilgili kişilerin KVKK madde 11 kapsamında sahip olduğu hakları konusunda aydınlatma yapmaktadır.
+
+Şirketimiz, KVKK’nın 5. maddesinin 2. fıkrasında ve 6. maddenin 3. fıkrasında belirtilen kişisel veri işleme şartları içerisindeki amaçlarla ve koşullarla sınırlı olarak kişisel verileri işlemektedir. Bu amaçlar ve koşullar;
+
+Kişisel verilerinizin işlenmesine ilişkin şirketimizin ilgili faaliyette bulunmasının Kanunlarda açıkça öngörülmesi,
+
+Kişisel verilerinizin Şirketimiz tarafından işlenmesinin bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili ve gerekli olması,
+
+Kişisel verilerinizin işlenmesinin Şirketimizin hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması,
+
+Kişisel verilerinizin Sizler tarafından alenileştirilmiş olması şartıyla; sizlerin alenileştirme amacıyla sınırlı bir şekilde Bü₺çe tarafından işlenmesi,
+
+Kişisel verilerinizin Bü₺çe tarafından işlenmesinin Şirketimizin veya sizlerin veya
+üçüncü kişilerin haklarının tesisi, kullanılması veya korunması için zorunlu olması,
+
+Sizlerin temel hak ve özgürlüklerine zarar vermemek kaydıyla Şirket meşru menfaatleri
+için kişisel veri işleme faaliyetinde bulunulmasının zorunlu olması,
+
+Bü₺çe tarafından kişisel veri işleme faaliyetinde bulunulmasının kişisel veri sahibinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması için zorunlu olması ve bu durumda da kişisel veri sahibinin fiili veya hukuki geçersizlik nedeniyle rızasını açıklayamayacak durumda bulunması.
+
+Bahsi geçen amaçlarla gerçekleştirilen işleme faaliyetinin, KVKK kapsamında öngörülen
+şartlardan herhangi birini karşılamıyor olması halinde, ilgili işleme sürecine ilişkin olarak Şirket
+tarafından açık rızanız talep edilecektir.
+
+8.AÇIK RIZA
+	Mobil Uygulamayı akıllı cihazınıza indirmeniz ve üye olmanız akabinde;
+i. Aydınlatma Metninde sayılan haller hariç ve bunlarla sınırlı olmamak üzere; Şirket’in meşru menfaatini ve sözleşmesel ve kanuni yükümlülüklerini yerine getirilmesi amacı ile kişisel verilerimin kamu kurum ve kuruluşlarına, bankalara, denetim kuruluşları gibi kanunen aktarımın zorunlu olduğu diğer üçüncü kişilere Şirketimiz politika ve prosedürleri çerçevesinde; ticari ilişkinin devamı, sözleşmenin ifası, Şirket faaliyetleri kapsamında hizmetlerimizin sunulması, yürütülmesi, geliştirilmesi ve taleplerin karşılanması, prosedürlerimize uyum sağlanması, iç raporlama ve iç denetim amaçlarıyla Şirket tarafından işlenmesine ve Şirket’in teknik ve idari konularda hizmetlerinden yararlandığı şirketlere aktarılmasına,
+
+ii. Şirketle olan Mobil Uygulama üyelik ilişkiniz nedeni ile kimlik verilerinizin, iletişim verilerinizin Şirket faaliyetleri kapsamında hizmetlerin sunulması, yürütülmesi, geliştirilmesi ve taleplerin karşılanması amacıyla yurt dışında bulunan bilgi teknolojileri hizmet sağlayıcılarına ve işbirliği içerisinde bulunulan diğer hizmet sağlayıcılarına aktarılmasına ve yurtdışında bulunan sistemler üzerinde saklanmasına,
+
+iii. Mobil Uygulama üzerinden yapmış olduğunuz görüşme, iletişim verisi, mesaj ve kayıtlarla elde edilen harcama, konaklama, alışveriş, havale/EFT bilgilerim, portföy durumu, e-cüzdan verilerim gibi finansal verilerin, demografik verilerin, Mobil Uygulama içerisinde bulunan konuşma (chat)  aparatındaki mesaj kayıtların ve Mobil Uygulama’yı kullandığınız süre içerisinde paylaşmış olduğunuz iletişim ve kimlik verilerinin Şirketimiz tarafından verilen hizmetin iyileştirilmesi, ihtiyaç duyabileceğiniz bağlantılı hizmetlerle ilgili fırsatlardan haberdar edilebilmeniz, reklam, kampanya, promosyon, duyuru vb. pazarlama faaliyetleri kapsamında kullanılması, müşteri profili belirlemek, müşteri profiline uygun promosyon ve kampanyalar sunmak ve istatistiksel çalışmalar yapmak, talebim halinde tarafınıza sunulabilmesi, Politika ve Aydınlatma Metninde yer alan diğer sair amaçlarla uygulama üyesi olduğunuz süre boyunca ve üyelik kaydınızın silinmesinin ardından 1 (bir) yıl süre ile, üyeliğinizi askıya almanız halinde ise 2 (iki) yıl süre ile saklanmasına, saklama süresinin bitmesinin akabinde anonimleştirilerek işlenmesine ve 3. Kişilere aktarılmasına,
+
+iv. Şirketle olan Mobil Uygulama üyelik ilişkiniz nedeniyle, Şirket faaliyetleri kapsamında hizmetlerin sunulması, yürütülmesi, geliştirilmesi ve taleplerin karşılanması nedenleri ile Şirket ile gerçekleştirmiş olduğunuz e-posta kayıtlarının merkezi yurtdışında bulunan e-posta sunucularında üyeliğinizin bitmesinin ardından 2 yıl süre ile saklanmasına,
+
+v. EK-2’de sıralanmış olan verilerin saklanmasına, işlenmesine Aydınlatma Metninde ve Bü₺çe Kişisel Verilerin Korunması ve Gizlilik Politikası’nda belirtilen sürelerle saklanmasına sayılan hususlara açık rıza verdiğiniz kabul edilir ve Kişisel Verileriniz işbu Politika’ya ve vermiş olduğunuz rızanıza uygun olarak işlenir ve yukarıda sayılan hususlara bilerek ve isteyerek rıza gösterdiğiniz Bü₺çe tarafından kabul edilir.
+
+9.KİŞİSEL VERİLERİN AKTARILMASI
+
+9.1 Yurtiçinde Kişisel Verilerin Aktarımı
+Şirketimiz, kişisel verilerin aktarılması konusunda KVKK’da öngörülen ve KVK Kurulu tarafından alınan karar ve ilgili düzenlemelere uygun bir şekilde hareket etmek sorumluluğu altındadır. Şirket tarafından ilgililere ait kişisel veriler ve özel nitelikli veriler ilgili kişinin açık rızası olmadan başka gerçek kişilere veya tüzel kişilere aktarılamaz. Şu kadar ki, KVKK ve diğer Kanunların zorunlu kıldığı durumlarda ilgilinin açık rızası olmadan da veriler mevzuatta öngörülen şekilde ve sınırlarla bağlı olarak yetkili kılınan idari veya adli kurum veya kuruluşa aktarılabilir. Ayrıca, Kanunun 5. ve 6. maddelerinde öngörülen durumlarda ilgilinin rızası olmaksızın da aktarım mümkündür. Şirket, kişisel verileri Kanunda ve ilgili diğer mevzuatta öngörülen şartlara uygun olarak ve mevzuatta belirtilen tüm güvenlik önlemlerini alarak şayet veri sahibi kişi ile imzalı mevcut bir sözleşme var ise, söz konusu sözleşmede ve Kanun veya ilgili diğer mevzuatta aksi düzenlenmediği sürece Türkiye’de bulunan üçüncü kişilere aktarabilir.
+
+9.2 Yurtdışına Kişisel Verilerin Aktarımı
+Şirket, kişisel verileri Türkiye’de üçüncü kişilere aktarabileceği gibi, Türkiye’de işlenerek veya Türkiye dışında işlenip muhafaza edilmek üzere, dış kaynak kullanımı dâhil yukarıda da yer verildiği gibi Kanunda ve ilgili diğer mevzuatta öngörülen şartlara uygun olarak ve mevzuatta belirtilen tüm güvenlik önlemlerini alarak şayet veri sahibi kişi ile imzalı mevcut bir sözleşme var ise, söz konusu sözleşmede ve Kanun veya ilgili diğer mevzuatta aksi düzenlenmediği sürece yurt dışına da aktarabilir. KVKK’ da belirtilen kişisel verilerin aktarımına ilişkin açık rızanın aranmadığı istisnai durumlarda, rızasız işlenme ve aktarma şartlarına ek olarak, verinin aktarılacağı ülkede yeterli korumanın bulunması şartı aranmaktadır.
+Yeterli korumanın sağlanıp sağlanmadığını Kişisel Verileri Koruma Kurulu belirleyecek olup; yeterli korumanın bulunmaması durumunda ise, hem Türkiye’deki hem de ilgili yabancı ülkedeki veri sorumlularının yeterli bir korumayı yazılı olarak taahhüt etmesi ve Kişisel Verileri Koruma Kurulunun izninin bulunması gerekmektedir.
+
+10. VERİ SAHİBİNİN HAKLARI VE BU HAKLARINI KULLANMASI
+
+10.1 Kişisel Veri Sahibinin Hakları
+
+Kişisel veri sahipleri aşağıda yer alan haklara sahiptirler:
+▪ Kişisel veri işlenip işlenmediğini öğrenme,
+▪ Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+▪ Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+▪ Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+▪ Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+▪KVKK ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması hâlinde kişisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+▪ İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+▪ Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme.
+
+10.2 Kişisel Veri Sahibinin Haklarını İleri Süremeyeceği Haller
+
+Kişisel veri sahipleri, KVKK’nın 28. maddesi gereğince aşağıdaki haller KVKK kapsamı
+dışında tutulduğundan, kişisel veri sahiplerinin bu konularda yukarıda belirtilen haklarını ileri süremezler:
+▪ Kişisel verilerin resmi istatistik ile anonim hâle getirilmek suretiyle araştırma, planlama ve istatistik gibi amaçlarla işlenmesi.
+▪ Kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini, ekonomik güvenliği, özel hayatın gizliliğini veya kişilik haklarını ihlal etmemek ya da suç teşkil etmemek kaydıyla, sanat, tarih, edebiyat veya bilimsel amaçlarla ya da ifade özgürlüğü kapsamında işlenmesi.
+▪ Kişisel verilerin millî savunmayı, millî güvenliği, kamu güvenliğini, kamu düzenini veya ekonomik güvenliği sağlamaya yönelik olarak kanunla görev ve yetki verilmiş kamu kurum ve kuruluşları tarafından yürütülen önleyici, koruyucu ve istihbari faaliyetler kapsamında işlenmesi.
+▪ Kişisel verilerin soruşturma, kovuşturma, yargılama veya infaz işlemlerine ilişkin olarak yargı makamları veya infaz mercileri tarafından işlenmesi. KVKK’nın 28/2 maddesi gereğince; aşağıda sıralanan hallerde kişisel veri sahipleri zararın giderilmesini talep etme hakkı hariç, yukarıda sayılan diğer haklarını ileri süremezler:
+
+▪ Kişisel veri işlemenin suç işlenmesinin önlenmesi veya suç soruşturması için gerekli olması.
+▪ Kişisel veri sahibi tarafından kendisi tarafından alenileştirilmiş kişisel verilerin işlenmesi.
+▪ Kişisel veri işlemenin kanunun verdiği yetkiye dayanılarak görevli ve yetkili kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarınca, denetleme veya düzenleme görevlerinin yürütülmesi ile disiplin soruşturma veya kovuşturması için gerekli olması.
+▪ Kişisel veri işlemenin bütçe, vergi ve mali konulara ilişkin olarak Devletin ekonomik ve mali çıkarlarının korunması için gerekli olması.
+
+10.3 Kişisel Veri Sahibinin Haklarını Kullanması
+
+Yukarıda belirtilen hakları kullanmak ile ilgili taleplerin aşağıdaki usule uygun olarak yapılması gerekmektedir.
+▪ Başvuru Türkçe yapılmalıdır.
+▪ Başvuru yazılı olarak veya kayıtlı elektronik posta (KEP) adresi, güvenli elektronik imza, mobil imza ya da ilgili kişi tarafından Veri Sorumlusuna daha önce bildirilen ve Veri Sorumlusunun sisteminde kayıtlı bulunan elektronik posta adresini kullanmak suretiyle veya başvuru amacına yönelik geliştirilmiş bir yazılım ya da uygulama vasıtasıyla Veri Sorumlusuna iletilmelidir.
+▪ Başvuru Şirket’in Esentepe Mah. Talatpaşa cd. No:5 Şişli, İstanbul adresine bizzat ya da iadeli taahhütlü posta yoluyla iletilebilirsiniz.
+▪ Başvuruda;
+ a) Ad, soyad ve başvuru yazılı ise imza,
+b) Türkiye Cumhuriyeti vatandaşları için T.C. kimlik numarası, yabancılar için
+uyruğu, pasaport numarası veya varsa kimlik numarası,
+c) Tebligata esas yerleşim yeri veya iş yeri adresi,
+ç) Varsa bildirime esas elektronik posta adresi, telefon ve faks numarası,
+d) Talep konusu,
+
+bulunması zorunludur.
+ 
+▪ Konuya ilişkin bilgi ve belgeler başvuruya eklenmelidir. Kişisel veri sahibinin talep ettiği işlemin ayrıca bir maliyeti gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir. Başvuruya cevabın CD, flash bellek gibi bir kayıt ortamında verilmesi halinde Veri Sorumlusu tarafından talep edilebilecek ücret kayıt ortamının maliyetini geçemez. Başvurunun Veri Sorumlusunun hatasından kaynaklanması hâlinde alınan ücret ilgiliye iade edilir.
+
+10.4 Başvurunun Bü₺çe Tarafından Değerlendirilmesi
+
+Başvuruyu alan Veri Sorumlusu; başvuruda yer alan talepleri, talebin niteliğine göre en kısa sürede ve en geç 30 (otuz) gün içinde sonuçlandıracaktır. Şirket, başvuruda bulunan kişinin kişisel veri sahibi olup olmadığını tespit etmek adına ilgili kişiden bilgi talep edebilir. Bü₺çe, kişisel veri sahibinin başvurusunda yer alan hususları netleştirmek adına, kişisel veri sahibine başvurusu ile ilgili soru yöneltebilir.
+Bü₺çe, başvuruyu kabul edecek veya gerekçesini açıklayarak reddedecektir.
+İlgili Kişinin talebinin kabul edilmesi hâlinde, Veri Sorumlusunca talebin gereği en kısa sürede yerine getirilir ve İlgili Kişiye bilgi verilir. Veri Sorumlusu, cevabını İlgili Kişiye yazılı olarak veya elektronik ortamda bildirecektir. Kişisel veri sahipleri adına üçüncü kişilerin başvuru talebinde bulunabilmesi için veri sahibi tarafından başvuruda bulunacak kişi adına noter kanalıyla düzenlenmiş özel vekâletname bulunmalıdır.
+
+11. Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi
+
+11.1 Azami Sürelerin Belirlenmesi ve İmha
+
+Şirket, Kişisel verilerin işlendikleri amaç için gerekli olan azami süreleri belirlerken Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hale Getirilmesi Hakkındaki Yönetmeliğin usul ve esaslarını dikkate alır.
+
+a) İlgili veri kategorisiyle alakalı olarak işleme amacıyla Şirket’in faaliyet gösterdiği sektörün genel teamül olarak ne kadar süre gerekli olduğu,
+b) İlgili veri kategorisinde yer alan kişisel verinin işlenmesini gerekli kılan ilgili kişiyle tesis edilen hukuki ilişkinin ne kadar süre devam edeceği,
+c) İlgili veri kategorisinin işlenme amacına bağlı olarak Şirket’in elde edeceği meşru menfaatin hukuka ve dürüstlük kurallarına uygun olarak ne kadar süre geçerli olacağı,
+d) İlgili veri kategorisinin işlenme amacına bağlı olarak saklanmasının yaratacağı risk, maliyet ve sorumlulukların hukuken ne kadar süre devam edeceği,
+e) Belirlenecek azami sürenin ilgili veri kategorisinin doğru ve güncel tutulmasına elverişli olup olmadığı,
+f) Şirket’in hukuki yükümlülükleri gereği ilgili veri kategorisinde yer alan kişisel verileri ne kadar süre saklamak zorunda olduğu,
+g) Şirket’in ilgili kişisel veri kategorisinde yer alan kişisel veriye bağlı bir hakkın ileri sürülmesi için belirlenen zamanaşımı süresinin ne kadar olduğu, dikkate alınır.
+ 
+Kişisel verilerin silinmesi, yok edilmesi ve anonim hale getirilmesiyle ilgili yapılan bütün işlemler kayıt altına alınır ve söz konusu kayıtlar, diğer hukuki yükümlülükler hariç olmak üzere en az üç yıl süreyle saklanır.
+
+11.2 Kişisel Verilerin Güvenli Saklanmasına ve İmhasına İlişkin Alınan Önlemler
+
+Bü₺çe, kişisel verilerin güvenli bir şekilde saklanması, hukuka aykırı olarak işlenmesi ve erişilmesinin önlenmesi, kişisel verilerinin hukuka uygun olarak imha edilmesi için teknik ve idari tedbirleri almakta yükümlü olmakla birlikte bu tedbirleri ilgili kişilere duyurmak ve uygulanmasını sağlamakla yükümlüdür.
+ 
+11.3 Periyodik İmha
+
+Şirket, Kişisel Veri İşleme Envanterine paralel olarak, dijital ortamlarında ve fiziksel ortamlarında tuttuğu kişisel verileri, 6 ayı geçemeyecek şekilde periyodik kontrol edeceğini ve işlendikleri amaç sona erdiğinde söz konusu verileri sileceğini, yok edeceğini veya anonim hale getireceğini taahhüt eder. 
+Bu kapsamda, açık rızası olan ve olmayan müşteriler için müşteri ile Şirket arasında mevcut ticari ilişkinin sona erdiği tarihten itibaren hukuki süre başlar, hukuki süre dolduktan sonra ilk periyodik silme tarihinde silme işlemi gerçekleştirilir.
+Açık rızası olan ve olmayan çalışanlar için iş sözleşmesinin sona erdiği andan itibaren hukuki süre başlar, hukuki süre dolduktan sonra ilk periyodik silme döneminde silme işlemi gerçekleştirilir.
+
+9.4. Silme Yöntemleri
+
+Bü₺çe yok etme yöntemlerine ilişkin genel olarak aşağıda yer alan yöntemler uygulanmaktdır. 
+
+Matbu Ortamda Tutulan Kişisel Veriler İçin Silme Yöntemleri:
+ 
+▪ Karartma
+Matbu ortamda bulunan kişisel veriler karartma yöntemi kullanılarak silinir. Karartma işlemi, ilgili evrak üzerindeki kişisel verilerin, mümkün olan durumlarda kesilmesi, mümkün olmayan durumlarda ise geri döndürülemeyecek ve teknolojik çözümlerle okunamayacak şekilde sabit mürekkep kullanılarak görünemez hale getirilmesi şeklinde yapılır.
+
+Bulut ve Yerel Dijital Ortamda Tutulan Kişisel Veriler İçin Silme Yöntemleri
+ 
+▪ Yazılımdan güvenli olarak silme
+Bulut ortamda ya da yerel dijital ortamlarda tutulan kişisel veriler bir daha kurtarılamayacak şekilde dijital komutla silinir. Bu şekilde silinen verilere tekrar ulaşılamaz.
+ 
+9.5. Yok Etme Yöntemleri
+
+Bü₺çe'de yok etme yöntemlerine ilişkin genel olarak aşağıda yer alan yöntemler uygulanmaktadır.
+
+Matbu Ortamda Tutulan Kişisel Veriler İçin Yok Etme Yöntemleri
+
+▪ Fiziksel Yok Etme
+Matbu ortamda tutulan belgeler evrak imha makineleri [Sheredder] ile tekrar bir araya getirilemeyecek şekilde yok edilir.
+
+Yerel Dijital Ortamda Tutulan Kişisel Veriler İçin Yok Etme Yöntemleri
+
+▪ Fiziksel Yok Etme
+Kişisel veri barındıran optik ve manyetik medyanın eritilmesi, yakılması veya toz haline getirilmesi gibi fiziksel olarak yok edilmesi işlemidir. Optik veya manyetik medyayı eritmek, yakmak, toz haline getirmek ya da bir metal öğütücüden geçirmek gibi işlemlerle verilerin erişilmez kılınması sağlanır.
+
+▪ De-manyetize etme (degauss)
+Manyetik medyanın yüksek manyetik alana maruz bırakılması ile üzerindeki verilerin okunamaz biçimde bozulması işlemidir.
+
+▪ Üzerine Yazma
+Manyetik medya ve yeniden yazılabilir optik medya üzerine en az yedi kez 0 ve 1’lerden oluşan rastgele veriler yazılarak eski verinin okunmasının ve kurtarılmasının önüne geçilir.
+
+Bulut Ortamda Tutulan Kişisel Veriler İçin Yok Etme Yöntemleri
+
+▪ Yazılımdan güvenli olarak silme
+Bulut ortamda tutulan kişisel veriler bir daha kurtarılamayacak şekilde dijital komutla silinir ve bulut bilişim hizmet ilişkisi sona erdiğinde kişisel verileri kullanılır hale getirmek için gerekli şifreleme anahtarlarının tüm kopyaları yok edilir. Bu şekilde silinen verilere tekrar ulaşılamaz.
+ 
+9.6. Anonimleştirme Yöntemleri
+Bü₺çe'de anonimleştirme yöntemlerine ilişkin genel olarak aşağıda yer alan yöntemler uygulanmaktadır.
+ 
+▪ Değişkenleri çıkarma
+İlgili kişiye ait kişisel verilerin içerisinde yer alan ve ilgili kişiyi herhangi bir şekilde tespit etmeye yarayacak doğrudan tanımlayıcıların bir ya da bir kaçının çıkarılmasıdır.
+Bu yöntem kişisel verinin anonim hale getirilmesi için kullanılabileceği gibi, kişisel veri içerisinde veri işleme amacına uygun düşmeyen bilgilerin bulunması halinde bu bilgilerin silinmesi amacıyla da kullanılabilir.
+
+▪ Bölgesel gizleme
+Kişisel verilerin toplu olarak anonim şekilde bulunduğu veri tablosu içinde istisna durumda olan veriye ilişkin ayırt edici nitelikte olabilecek bilgilerin silinmesi işlemidir.
+ 
+▪ Genelleştirme
+Birçok kişiye ait kişisel verinin bir araya getirilip, ayırt edici bilgileri kaldırılarak istatistiki veri haline getirilmesi işlemidir.
+ 
+▪ Alt ve üst sınır kodlama / Global kodlama
+Belli bir değişken için o değişkene ait aralıklar tanımlanarak kategorilendirilir. Değişken sayısal bir değer içermiyorsa bu halde değişken içindeki birbirine yakın veriler kategorilendirilir. Aynı kategori içinde kalan değerler birleştirilir.
+
+▪ Mikro birleştirilme
+Bu yöntem ile veri kümesindeki bütün kayıtlar öncelikle anlamlı bir sıraya göre dizilip sonrasında bütün küme belirli bir sayıda alt kümelere ayrılır. Daha sonra her alt kümenin belirlenen değişkene ait değerinin ortalaması alınarak alt kümenin o değişkenine ait değeri ortalama değer ile değiştirilir. Bu sayede veri içerisinde bulunan dolaylı tanımlayıcılar bozulmuş olacağından, verinin ilgili kişiyle ilişkilendirilmesi zorlaştırılır.
+
+▪ Maskeleme
+Kişisel verilerin belli alanlarının, kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek şekilde silinmesi, üstlerinin çizilmesi, boyanması ve yıldızlanması gibi işlemlerdir.
+ 
+▪ Veri karma ve bozma
+Kişisel veri içerisindeki doğrudan ya da dolaylı tanımlayıcılar başka değerlerle karıştırılarak ya da bozularak ilgili kişi ile ilişkisi koparılır ve tanımlayıcı niteliklerini kaybetmeleri sağlanır.
+ 
+9.7. Saklama Süreleri      
+Bü₺çe'de Saklama sürelerine ilişkin genel olarak EK’1 de yer alan süreler uygulanmaktadır.
+ 
+12. Yürürlük ve Gözden Geçirme
+
+	Bu Politika dokümanı, Bü₺çe Yönetim Kurulu tarafından onaylandığı andan
+itibaren yürürlüğe girer. İşbu Politika her halükarda yılda bir kez ve gereken durumlarda gözden geçirilir, gerekli değişiklikler varsa, güncellenir.
+Kişisel verilerin korunması ve işlenmesine ilişkin yürürlükte bulunan mevzuat ile Bü₺çe KVK Politikası arasında çelişki bulunması halinde, yürürlükte bulunan mevzuat uygulanacaktır.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EK-1:
+
+Çalışan: Kimlik Verileri, İletişim Verileri, Eğitim Bilgileri 10 Yıl saklanır.
+Çalışan Adayı: Kimlik Verileri, İletişim Verileri, Eğitim Bilgileri, Özgeçmiş 6 Ay saklanır.
+Çalışan: İş Sağlığı ve Güvenliği Mevzuatı uyarınca toplanan sağlık vb. veriler 15 Yıl saklanır.
+Kullanıcı/Üye: E-posta adresi, telefon numarası, üyelik süresince ve Üyeliğin bitmesinin ardından 1 yıl, üyeliğin askıya alınmasının ardından 2 yıl saklanır.
+Kullanıcı/Üye: Transfer bilgileriniz, harcama ve alışveriş verileriniz, e-cüzdan verileriniz
+Üyelik süresince ve Üyeliğin bitmesinin ardından 1 yıl, Üyeliğin askıya alınmasının ardından 2 yıl saklanır.
+Kullanıcı/Üye: Mobil uygulama chat aparatında yapılan yapılan yazışmalar, konuşmalar ve mesajlar
+Üyelik süresince ve Üyeliğin bitmesinin ardından 1 yıl, Üyeliğin askıya alınmasının ardından 2 yıl saklanır.
+Kullanıcı/Üye: Ad- soyad, doğum yeri ve tarihiniz, cinsiyetiniz
+Üyelik süresince ve Üyeliğin bitmesinin ardından 1 yıl, Üyeliğin askıya alınmasının ardından 2 yıl saklanır.
+Kullanıcı/Üye: Çerezler, kullanım istatistikleriniz üyelik süresince ve Üyeliğin bitmesinin ardından 1 yıl, Üyeliğin askıya alınmasının ardından 2 yıl saklanır.
+Hissedar/ Yönetim Kurulu Üyesi: Kimlik Verileri/ İletişim Verileri 10 Yıl saklanır.
+Çalışan Adayı: Özgeçmişte yer alan kimlik, iletişim eğitim gibi veriler 1 Yıl saklanır.
+Ziyaretçi: Kimlik Verileri 6 ay saklanır.
+Çalışan: Dijital Veriler (Log/Kayıt/Takip Sistemleri) 2 yıl saklanır.
+Hizmet Alınan diğer gerçek kişiler ve/veya tüzel kişi çalışanları: Şirket temel verileri 10 Yıl saklanır.
+Çalışan: İnsan Kaynakları Verileri 10 Yıl saklanır.
+ 
+* Mevzuat uyarınca daha uzun bir süre düzenlenmiş olması ya da mevzuat uyarınca zamanaşımı, hak düşürücü süre, saklama süreleri vb. için daha uzun bir süre öngörülmüş olması halinde, mevzuat hükümlerindeki süreler azami saklama süresi olarak kabul edilir.
+
+
+EK-2 İşlenen Kişisel Veriler
+ 
+Aşağıdakilerle sınırlı olmamak kaydıyla;
+
+Kimlik Verisi: Ad- soyad, doğum yeri ve tarihi, cinsiyet kaydedilir, saklanır, maskelenerek rıza verilen 3. kişiye aktarılır.
+
+İletişim Verisi: E-posta adresi, telefon numarası, adres kaydedilir, saklanır, maskelenerek rıza verilen 3. kişiye aktarılır.
+
+Finansal Veri: Para Transfer bilgileri, harcama, konaklama ve alışveriş verileri, e-cüzdan verileri
+kaydedilir, saklanır, talebiniz halinde ve rızanız ile 3. Kişiye aktarılabilir.
+
+Dijital Veri: Mobil Uygulama Ziyaretinize İlişkin Detaylar; internet trafiği, lokasyon verisi, Çağrı merkezinin arama ve ses kayıtları, kullanım ve davranışsal tercihleri, kullanım istatistikleri, Mobil uygulama üzerinden yapılan mesajlaşma ve yazışmalar (içerikleri), e-posta yazışma kayıtları kaydedilir, rızanız ile yurtdışında yer alan sunucularda saklanır, sınıflandırılır.
+ 
+ 
+ 
+ 

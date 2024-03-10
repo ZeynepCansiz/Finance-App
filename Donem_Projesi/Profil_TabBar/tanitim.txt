@@ -1,0 +1,5 @@
+	Bü₺çe; aylık gelir-gider durumunun düzenlenmesi, finans analizinin yapılması, bütçe yönetimi gibi hareketlerin kontrol altına alınması ve kağıt üzerinde yapılan listelerin, hesap makinesi kullanılarak yapılan matematiksel işlemlerin oluşturduğu karmaşıklığın önüne geçmek için her finansal yöneticiye hitap eden bir kişisel finans yönetim mobil uygulamasıdır.
+
+	Bü₺çe'de bir grup oluşturup bu gruba ev, iş, tatil arkadaşlarınızı vs. ekleyerek ortak harcamaları takip edebilirsiniz. Oluşturulan bu gruplar aynı zamanda bir sohbet grubu işlevi de görür. Bu gruptan aktivite planları yaparken aynı zamanda yapılan harcamaları da girebilirsiniz.
+
+	Grup harcamaları dışında şahsi gelir-giderlerinizi de Bütçe'de tanımlayarak finansal hareketlerinizi kolaylıkla tek bir yerden kontrol edebilirsiniz.
